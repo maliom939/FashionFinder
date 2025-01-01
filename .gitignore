@@ -1,0 +1,17 @@
+papers/
+archive.zip
+tree_ops_32_6_alexey_train_full.pkl
+tree_resnet_16_6_train.pkl
+big_dataset/
+deliverables/code.ipynb
+deliverables/sample_code.ipynb
+tmp/
+trees/
+notes.txt
+preprocess.ipynb
+styles_filtered.xlsx
+test_df.csv
+training_df.csv
+x3.png
+time_test.ipynb
+final_project/
